@@ -109,6 +109,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 For questions or feedback, feel free to reach out:
 - **Author**: Anurag Rajput
-- **Email**: [your_email@example.com]
+- **Email**: [anuragrajput1226@gmail.com]
 - **GitHub**: [AnuragRajput-cyber](https://github.com/AnuragRajput-cyber)
 
