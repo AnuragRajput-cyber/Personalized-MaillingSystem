@@ -1,0 +1,1 @@
+export const mailLogo = 'https://i.ibb.co/7KrkT57/logo.png';
